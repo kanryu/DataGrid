@@ -1,7 +1,8 @@
 # DataGrid
 A sample implementation of a large table view that behaves like an Excel spreadsheet implemented in Vue3.
 
-[sample](docs/sample_capture.png)
+![DataGrid sample](docs/sample_capture.png)
+
 
 ## Summary
 Obviously, displaying a spreadsheet with thousands of rows in a browser takes a long time to display. 
