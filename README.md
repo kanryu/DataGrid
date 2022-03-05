@@ -14,6 +14,10 @@ Inconsistencies that occur when scrolling pages are resolved with JavaScript.
 - High speed because only the display range is rendered
 - Easy to learn and improve because it is implemented in the popular Vue3.
 
+## Demo
+
+https://kanryu.github.io/DataGrid/
+
 ## Project setup
 ```
 yarn install
