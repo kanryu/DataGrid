@@ -47,7 +47,7 @@ export default {
     for(let y = 0; y < maxRow; y++) {
       let line = []
       for(let x = 0; x < maxColumn; x++) {
-        line.push(`cell (${x}.${y})`)
+        line.push(`cell (${x},${y})`)
       }
       modelValue.push(line)
     }

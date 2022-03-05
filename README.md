@@ -1,10 +1,17 @@
 # DataGrid
 A sample implementation of a large table view that behaves like an Excel spreadsheet implemented in Vue3.
 
+[sample](docs/sample_capture.png)
+
 ## Summary
 Obviously, displaying a spreadsheet with thousands of rows in a browser takes a long time to display. 
 Therefore, by tagging only the area currently displayed by the browser, the cost required for rendering the browser is reduced. 
 Inconsistencies that occur when scrolling pages are resolved with JavaScript.
+
+## Features
+- Clear and concise tag structure
+- High speed because only the display range is rendered
+- Easy to learn and improve because it is implemented in the popular Vue3.
 
 ## Project setup
 ```
